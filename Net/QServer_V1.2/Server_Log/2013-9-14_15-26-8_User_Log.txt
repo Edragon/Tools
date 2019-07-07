@@ -1,0 +1,3 @@
+Time			IP			Port		Protocal	ID	Operation	Recv(Bytes)	Send(Bytes)
+2013-9-14 15:26:18	192.168.10.18		54510		TCP		1	Login
+2013-9-14 15:27:55	192.168.10.18		54510		TCP		1	Logout		9		0
