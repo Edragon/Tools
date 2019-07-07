@@ -1,0 +1,3 @@
+软件下载链接：https://pan.baidu.com/s/1i6nzN1N 密码：4a4y
+串口下载注意，需要将BOOT0跳线帽放置到VCC,下载完成之后，将BOOT0
+跳线帽放置到GND即可正常使用。
