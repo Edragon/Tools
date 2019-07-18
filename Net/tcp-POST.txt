@@ -1,0 +1,24 @@
+说明：
+本段代码是为了测试TCP方法提交HTTP协议内容的测试代码，使用方法：
+1、 创建TCP Socket连接
+2、 发送字符串
+
+Content-Length参数是对字符进行编码后的长度，换句话说就是可以发送非英文的其他字符，如汉字等。
+
+User-Agent参数，可以自定义，一般是根据终端设备来定义，换句话说就是终端设备的类型描述。
+
+Head信息和消息之间一定要有空行。
+
+消息内容：
+
+POST /action.php HTTP/1.1
+Accept: */*
+Accept-Language: zh-cn
+User-Agent: Mozilla/4.0 HOSS MEGA IPCAMERA
+Content-Type: application/x-www-form-urlencoded
+Host: dns.camanywhere.net
+Content-Length: 215
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+resultok=OK&dev_type=HKIPC&user_name=admin&user_pwd=admin&dev_name=Megaipc&dev_ip=192.168.1.111&web_port=80&data_port=8000&rtsp_port=554&mac_addr=00-E6-01-01-DD-E2&host_name=www.hobcms.com&dev_id=1234567890&action=3
