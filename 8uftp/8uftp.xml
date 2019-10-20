@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<8uftp>
+<Settings>
+<Item name="Last Server Host" type="string">192.168.1.102</Item>
+<Item name="Last Server Port" type="numeric">21</Item>
+<Item name="Last Server User" type="string">admin</Item>
+<Item name="Last Server dont save pass" type="numeric">0</Item>
+<Item name="Last server name" type="string"/>
+<Item name="Last Server Pass" type="string"/>
+<Item name="Last Server Firewall Bypass" type="numeric">0</Item>
+<Item name="Last Server Path" type="string">256 0 </Item>
+<Item name="Last Server Type" type="numeric">256</Item>
+<Item name="Last Server transfer mode" type="numeric">0</Item>
+<Item name="Default Folder" type="string">F:\</Item>
+<Item name="Last Window Size" type="string">0 754 317 1858 933</Item>
+<Item name="Last Splitter Pos" type="string">324 143 380 697 377</Item>
+<Item name="Pasv" type="numeric">1</Item>
+</Settings>
+<RecentServers>
+<Server Host="192.168.1.102" Port="21" User="admin" Pass="" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+</RecentServers>
+<TransferQueue/>
+</8uftp>
